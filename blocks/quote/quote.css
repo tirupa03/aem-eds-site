@@ -28,12 +28,12 @@
     width: 30px;
     background-color: darkgray;
 }
-.bg-red {
+.block.bg-red {
     background-color: red;
 }
-.bg-green {
+.block.bg-green {
     background-color: green;
 }
-.bg-blue {
+.block.bg-blue {
     background-color: blue;
 }
