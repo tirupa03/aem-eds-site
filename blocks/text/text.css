@@ -1,20 +1,18 @@
-.text.default {
+.default {
     color: inherit;
 }
-.text.primary {
+.primary {
     color: #0055a5;
 }
-.text.secondary {
+.secondary {
     color: #ff5733;
 }
-.text.success {
+.success {
     color: #28a745;
 }
-.text.warning {
+.warning {
     color: #ffc107;
 }
-.text.danger {
+.danger {
     color: #dc3545;
 }
-  
-  

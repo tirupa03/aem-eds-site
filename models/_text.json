@@ -7,34 +7,7 @@
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/text/v1/text",
-            "template": {
-              "colorOptions": [
-                {
-                  "name": "Default",
-                  "value": "default"
-                },
-                {
-                  "name": "Primary",
-                  "value": "primary"
-                },
-                {
-                  "name": "Secondary",
-                  "value": "secondary"
-                },
-                {
-                  "name": "Success",
-                  "value": "success"
-                },
-                {
-                  "name": "Warning",
-                  "value": "warning"
-                },
-                {
-                  "name": "Danger",
-                  "value": "danger"
-                }
-              ]
-            }
+            "template": {}
           }
         }
       }
