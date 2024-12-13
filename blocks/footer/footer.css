@@ -19,7 +19,7 @@ footer .footer p {
     padding: 40px 32px 24px;
   }
 }
-footer section.columns-4-cols {
+footer columns-container.columns-4-cols {
   padding: 20px 0;
 }
 footer columns-container.columns-2-cols {
