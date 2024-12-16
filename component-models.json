@@ -100,7 +100,7 @@
       },
       {
         "component": "select",
-        "name": "classes",
+        "name": "linkType",
         "label": "Alignment",
         "options": [
           {
