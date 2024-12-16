@@ -54,7 +54,11 @@
                 "template": {
                   "name": "Button",
                   "model": "button",
-                  "link": "<a class=\"${linkType} ${linkAlignment}\" href=\"${link}\" title=\"${linkTitle}\">${linkText}</a>"
+                  "link": "",
+                  "linkText": "Button Text",
+                  "linkTitle": "Button Title",
+                  "linkType": "primary",
+                  "linkAlignment": "left-align"
                 }
               }
             }
