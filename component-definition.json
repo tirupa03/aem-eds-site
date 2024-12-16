@@ -54,7 +54,7 @@
                 "template": {
                   "name": "Button",
                   "model": "button",
-                  "classes": "{{linkAlignment}}"
+                  "classes": "{{model.linkAlignment}}"
                 }
               }
             }
