@@ -8,7 +8,9 @@
           "page": {
             "resourceType": "core/franklin/components/button/v1/button",
             "template": {
-              "model": "button"
+              "name": "Button",
+              "model": "button",
+              "classes": "{{model.linkAlignment}}"
             }
           }
         }
@@ -50,6 +52,25 @@
             {
               "name": "secondary",
               "value": "secondary"
+            }
+          ]
+        },
+        {
+          "component": "select",
+          "name": "linkAlignment",
+          "label": "Alignment",
+          "options": [
+            {
+              "name": "Left",
+              "value": "left-align"
+            },
+            {
+              "name": "Right",
+              "value": "right-align"
+            },
+            {
+              "name": "Center",
+              "value": "center"
             }
           ]
         }
