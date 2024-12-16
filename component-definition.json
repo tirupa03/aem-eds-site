@@ -52,7 +52,9 @@
               "page": {
                 "resourceType": "core/franklin/components/button/v1/button",
                 "template": {
-                  "model": "button"
+                  "name": "Button",
+                  "model": "button",
+                  "link": "<a class=\"${linkType} ${linkAlignment}\" href=\"${link}\" title=\"${linkTitle}\">${linkText}</a>"
                 }
               }
             }
