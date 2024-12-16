@@ -54,11 +54,7 @@
                 "template": {
                   "name": "Button",
                   "model": "button",
-                  "link": "",
-                  "linkText": "Button Text",
-                  "linkTitle": "Button Title",
-                  "linkType": "primary",
-                  "linkAlignment": "left-align"
+                  "classes": "{{linkAlignment}}"
                 }
               }
             }
