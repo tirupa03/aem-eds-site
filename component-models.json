@@ -113,7 +113,11 @@
           },
           {
             "name": "Center",
-            "value": "center"
+            "value": "center-align"
+          },
+          {
+            "name": "Justify",
+            "value": "justify-align"
           }
         ]
       }
@@ -235,7 +239,7 @@
         "valueType": "string",
         "options": [
           {
-            "name": "default",
+            "name": "Default",
             "value": "bg-default"
           },
           {
@@ -249,6 +253,10 @@
           {
             "name": "Blue",
             "value": "bg-blue"
+          },
+          {
+            "name": "Yellow",
+            "value": "bg-yellow"
           }
         ]
       }
