@@ -267,7 +267,7 @@
     "fields": [
       {
         "component": "select",
-        "name": "classes",
+        "name": "Text",
         "value": "",
         "label": "Text Color",
         "description": "The text color",
